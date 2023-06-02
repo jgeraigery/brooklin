@@ -14,7 +14,7 @@ ext {
     log4jVersion = "1.2.17"
     metricsCoreVersion = "4.1.0"
     mockitoVersion = "1.10.19"
-    parseqVersion = "2.6.31"
+    parseqVersion = "2.6.36"
     pegasusVersion = "29.14.0"
     scalaVersion = "2.12"
     slf4jVersion = "1.7.5"
