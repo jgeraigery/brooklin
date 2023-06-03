@@ -17,7 +17,7 @@ ext {
     parseqVersion = "2.6.31"
     pegasusVersion = "29.14.0"
     scalaVersion = "2.12"
-    slf4jVersion = "1.7.5"
+    slf4jVersion = "1.7.36"
     testngVersion = "7.1.0"
     zookeeperVersion = "3.6.3-23"
     helixZkclientVersion = "1.0.2"
