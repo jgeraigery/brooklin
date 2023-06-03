@@ -1,5 +1,5 @@
 ext {
-    apacheHttpClientVersion = "4.5.3"
+    apacheHttpClientVersion = "4.5.14"
     avroVersion = "1.9.2"
     commonsCliVersion = "1.2"
     commonsHttpClientVersion = "3.1"
