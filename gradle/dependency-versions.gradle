@@ -3,7 +3,7 @@ ext {
     avroVersion = "1.9.2"
     commonsCliVersion = "1.2"
     commonsHttpClientVersion = "3.1"
-    commonsIOVersion = "2.4"
+    commonsIOVersion = "2.5"
     commonslang3Version = "3.4"
     commonsValidatorVersion = "1.5.1"
     findbugsVersion = "3.0.1"
